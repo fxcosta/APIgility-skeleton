@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Apigility Skeleton Application
 ==============================
 
@@ -199,3 +200,7 @@ Test your container:
 ```bash
 docker run -it -p "80:80" apighost
 ```
+=======
+# APIgility-skeleton
+A simple Apigility RESTful skeleton with Doctrine 2
+>>>>>>> 2f67810d7355e144459a6aa8733256324669bac1

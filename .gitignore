@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 nbproject
 ._*
 .~lock.*
@@ -15,3 +16,25 @@ config/autoload/*.local.php
 data/cache/*
 !data/cache/.gitkeep
 .vagrant
+=======
+# Composer files
+composer.phar
+vendor/
+
+# Local configs
+#config/autoload/*.local.php
+
+# Binary gettext files
+*.mo
+
+# Data
+data/logs/
+data/cache/
+data/sessions/
+data/tmp/
+temp/
+
+# Legacy ZF1
+demos/
+extras/documentation
+>>>>>>> 2f67810d7355e144459a6aa8733256324669bac1
